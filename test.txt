@@ -1,4 +1,4 @@
 test file
 change
 change 2
-Make a conflict
+Makeing a conflict
